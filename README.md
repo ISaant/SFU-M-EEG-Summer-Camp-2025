@@ -2,9 +2,9 @@
 
 ## Program
 
-Preliminary Readings:
-Magnetoencephalography for brain electrophysiology and imaging
-Where does EEG come from and what does it mean?
+Preliminary Readings:\\
+Magnetoencephalography for brain electrophysiology and imaging\\
+Where does EEG come from and what does it mean?\\
 
 Locations:
 SFU ImageTech Lab - Surrey Memorial Hospital North Entrance -
